@@ -1,0 +1,84 @@
+.header{
+    width: 100%;
+    height: 200PX;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.body{
+    width: 100%;
+    height: auto;
+    background-color: rgb(230, 210, 185);
+    text-align: center;
+    float: right;
+    direction: rtl;
+}
+button{
+    margin-right: 8px;
+    margin-top: 3px;
+}
+label{
+    margin-right: 8px;
+}
+.body input{
+    margin-right: 5px;
+    width: 80%;
+    border-radius: 5px;
+}
+.body select{
+    margin-right: 5px;
+    width: 90%;
+    border-radius: 5px;
+}
+.body h2{
+    text-align: center;
+    margin-right: 5px;
+}
+h1{
+    text-align: center;
+    font-size: 79px;
+    text-shadow: 0vw;
+}
+.footer{
+    width: 100%;
+    height: 200PX;
+    background-color: antiquewhite;
+}
+.neworder{
+    width: 25%;
+    background-color: aqua;
+    float: left;
+    min-height: 300px;
+    text-align: right;
+}
+.newuser{
+    width: 25%;
+    background-color: rgb(176, 224, 245);
+    float: left;
+    text-align: right;
+    min-height: 300px;
+}
+.newprodact{
+    width: 25%;
+    background-color: rgb(195, 233, 229);
+    float: left;
+    text-align: right;
+    min-height: 300px;
+}
+.stock{
+    width: 25%;
+    background-color: rgb(230, 235, 217);
+    float: left;
+    text-align: right;
+    min-height: 300px;
+}
+.place{
+    width: 25%; 
+    background-color: rgb(156, 242, 139);
+    height: auto;
+    float: right;
+    direction: rtl;
+
+}
+.orderline {
+   float: right;
+}
